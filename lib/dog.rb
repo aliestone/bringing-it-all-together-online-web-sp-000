@@ -38,7 +38,7 @@ class Dog
   end
 
 
-  def self.drop_table
+  def drop_table
     self.drop_table
   end
 
