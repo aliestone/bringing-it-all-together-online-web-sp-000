@@ -14,7 +14,7 @@ class Dog
 
 
   def save
-    return dog.new
+    self.save
   end
 
   def self.create_table
